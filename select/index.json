@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "口笛",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-08T18:06:28.819911Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/01_口笛_GReeeeN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "Akira Tsuchiya, Daisuke Achiwa & Ken Nakagawa",
+      "has_synced": false,
+      "path": "select/02_口笛_Akira_Tsuchiya,_Daisuke_Achiwa_&_Ken_Nakagawa.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "desert sand feels warm at night",
+      "has_synced": false,
+      "path": "select/03_口笛_desert_sand_feels_warm_at_night.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "Yui Horie",
+      "has_synced": true,
+      "path": "select/04_口笛_Yui_Horie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "YUKI",
+      "has_synced": true,
+      "path": "select/05_口笛_YUKI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/06_口笛_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "Mr․Children",
+      "has_synced": true,
+      "path": "select/07_口笛_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "口笛 - Kuchibue",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/08_口笛_-_Kuchibue_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/09_口笛_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "Mr.Children 1996-2000",
+      "has_synced": true,
+      "path": "select/10_口笛_Mr.Children_1996-2000.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "口笛",
+      "artist": "GREEEEN",
+      "has_synced": true,
+      "path": "select/11_口笛_GREEEEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "口笛",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_口笛_GReeeeN.txt"
+    }
+  ]
+}
